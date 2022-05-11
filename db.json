@@ -31,7 +31,7 @@
     {
       "id": 5,
        "category": "Sporting Goods",
-        name: "Nexus 7",
+        "name": "Nexus 7",
       "stocked": true,
       "cost": 500
     }
